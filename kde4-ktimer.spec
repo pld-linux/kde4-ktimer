@@ -4,12 +4,12 @@
 
 Summary:	K Desktop Environment - Task Scheduler
 Name:		kde4-%{orgname}
-Version:	4.13.1
+Version:	4.13.2
 Release:	1
 License:	GPL v2
 Group:		X11/Applications/Graphics
 Source0:	ftp://ftp.kde.org/pub/kde/%{_state}/%{version}/src/%{orgname}-%{version}.tar.xz
-# Source0-md5:	25ae97f1ad872e08e97da29aee9e6246
+# Source0-md5:	86372be7e65ead3f126b22b4015776a5
 URL:		http://www.kde.org/
 BuildRequires:	QtCore-devel >= %{qtver}
 BuildRequires:	automoc4 >= 0.9.88
